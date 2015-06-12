@@ -3,7 +3,7 @@ This repository contains some of files related to the analysis of CR data using 
 
 Key files:
 
-* [1](https://github.com/gcohenfr/IV_omics/blob/master/affyID%2Bgene_2007-Nov-05.csv) Affy probe-sets to gene mapping
+* [1](https://github.com/gcohenfr/IV_omics/blob/master/affyID%2Bgene_2007-Nov-05.csv) Affy probe-sets to gene mapping (affyID+gene_2007-Nov-05.csv)
 
 * [2](https://github.com/gcohenfr/IV_omics/blob/master/Correlated%20features.csv) correlation between probesets and protein groups
 
